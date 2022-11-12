@@ -1,0 +1,2 @@
+# hatago
+HataGo
